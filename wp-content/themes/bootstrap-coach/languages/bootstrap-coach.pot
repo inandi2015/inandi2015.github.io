@@ -1,0 +1,1355 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-20 15:24+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: archive-tbtc_teams.php:21 template-parts/shortcode-layout/team-layout.php:4
+msgid "Teams"
+msgstr ""
+
+#: archive-tbtc_testimonials.php:21
+#: template-parts/shortcode-layout/testimonial-layout.php:5
+msgid "Testimonials"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:24
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:24
+msgid "https://wordpress.org"
+msgstr ""
+
+#: footer.php:24
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:24
+msgid "Theme by"
+msgstr ""
+
+#: footer.php:24
+msgid "http://thebootstrapthemes.com/"
+msgstr ""
+
+#: footer.php:24
+msgid "TheBootstrapThemes"
+msgstr ""
+
+#: functions.php:95 inc/starter-content.php:164
+msgid "Main Menu"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:117
+msgid "Primary Menu"
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/starter-content.php:9
+msgid "Just another Preview Sites"
+msgstr ""
+
+#: inc/starter-content.php:15
+msgid "Home"
+msgstr ""
+
+#: inc/starter-content.php:23
+msgid "+9779806789890"
+msgstr ""
+
+#: inc/starter-content.php:24
+msgid "spa@yahoo.com"
+msgstr ""
+
+#: inc/starter-content.php:25
+msgid "BOOK Session"
+msgstr ""
+
+#: inc/starter-content.php:48 inc/customizer/render-functions.php:9
+msgid "Struggling In Life? I Can Help"
+msgstr ""
+
+#: inc/starter-content.php:49
+msgid ""
+"Life coach makes easier. After all, the problem is not about you at all. The "
+"idea that someone (and preferably a therapist) should tell people how to "
+"overcome their challenges is silly on several levels."
+msgstr ""
+
+#: inc/starter-content.php:50 inc/customizer/render-functions.php:17
+msgid "Book Session"
+msgstr ""
+
+#: inc/starter-content.php:53
+msgid "Call for Consultation"
+msgstr ""
+
+#: inc/starter-content.php:54
+msgid "30 minutes free for the first session. T&C Apply"
+msgstr ""
+
+#: inc/starter-content.php:55
+msgid "(+123)-345-6789"
+msgstr ""
+
+#: inc/starter-content.php:57
+msgid "How can I help you?"
+msgstr ""
+
+#: inc/starter-content.php:58
+msgid ""
+"I can help by coaching in life. life coaching makes the most of your time "
+"away from home, and if you find yourself looking for a new way to stay "
+"connected with these people that are already close-knit. Here are some tips "
+"on finding them"
+msgstr ""
+
+#: inc/starter-content.php:59
+msgid "EXPLORE PROGRAMS"
+msgstr ""
+
+#: inc/starter-content.php:62
+msgid "Why Most People Get Excited About Coaching"
+msgstr ""
+
+#: inc/starter-content.php:63
+msgid ""
+"A life coach can help a person to identify strengths, develop them, and "
+"identify personal and professional goals. Their role is to assist the "
+"coachee throughout the change process. As you will discover, this happens in "
+"several ways. It is supposed to help them find happiness. It has an "
+"addictive nature, that really comes through in the message and they believe "
+"there is something good happening when we talk."
+msgstr ""
+
+#: inc/starter-content.php:64
+msgid ""
+"life coach makes people feel less vulnerable and helps them improve their "
+"attitudes toward risktaking."
+msgstr ""
+
+#: inc/starter-content.php:68
+msgid "More About Us"
+msgstr ""
+
+#: inc/starter-content.php:72
+msgid "Contact Us"
+msgstr ""
+
+#: inc/starter-content.php:77 inc/customizer/render-functions.php:32
+#: inc/customizer/render-functions.php:36
+#, php-format
+msgid "Discount up to 35% for first member!"
+msgstr ""
+
+#: inc/starter-content.php:78
+msgid ""
+"Mauris ligula purus, commodo a vestibulum in, porttitor semper ex. Nulla "
+"turpis dui, fermentum ultrices dignissim ac, pulvinar sit amet enim. Nulla "
+"posuere urna."
+msgstr ""
+
+#: inc/starter-content.php:80 inc/starter-content.php:91
+#: inc/starter-content.php:99 inc/starter-content.php:106
+msgid "Learn More"
+msgstr ""
+
+#: inc/starter-content.php:83
+msgid ""
+"© Copyright 2021 Spa | Developed By Bootstrap Themes Powered by WordPress ."
+msgstr ""
+
+#: inc/starter-content.php:85
+msgid "Explore Our Services"
+msgstr ""
+
+#: inc/starter-content.php:89
+msgid "Face to face coaching"
+msgstr ""
+
+#: inc/starter-content.php:90
+msgid ""
+"Face to face coaching makes it easier for those new people and their "
+"families to find each other."
+msgstr ""
+
+#: inc/starter-content.php:97
+msgid "Group Coaching"
+msgstr ""
+
+#: inc/starter-content.php:98
+msgid ""
+"Group coaching is a place where you can meet the people who are helping you "
+"succeed, work with our community leaders and get support at your service."
+msgstr ""
+
+#: inc/starter-content.php:104
+msgid "Executive Coaching"
+msgstr ""
+
+#: inc/starter-content.php:105
+msgid ""
+"Executive coaching makes it possible for you to make better decisions that "
+"would result in your career succeeding."
+msgstr ""
+
+#: inc/starter-content.php:112
+msgid "Get 15-Minutes Complimentary Zoom or Skype session."
+msgstr ""
+
+#: inc/starter-content.php:113
+msgid "Limited Period Offer."
+msgstr ""
+
+#: inc/starter-content.php:119
+msgid "Session Per Year"
+msgstr ""
+
+#: inc/starter-content.php:123
+msgid "Years Of Experience"
+msgstr ""
+
+#: inc/starter-content.php:127
+msgid "Business Sessions"
+msgstr ""
+
+#: inc/starter-content.php:131
+msgid "Global Awards Won"
+msgstr ""
+
+#: inc/starter-content.php:136
+msgid "Our Team"
+msgstr ""
+
+#: inc/starter-content.php:137
+msgid "What They Say"
+msgstr ""
+
+#: inc/starter-content.php:138
+msgid "Pricing Plans"
+msgstr ""
+
+#: inc/starter-content.php:140
+msgid "Benefits of Life Coach By An Expert"
+msgstr ""
+
+#: inc/starter-content.php:141
+msgid ""
+"Easier for those new people and their families to find each other. It is "
+"supposed to help them find happiness. Encourage others without passing "
+"judgment. Help individuals perform at their highest levels."
+msgstr ""
+
+#: inc/starter-content.php:145
+msgid "Family"
+msgstr ""
+
+#: inc/starter-content.php:149
+msgid "Marriage & Love"
+msgstr ""
+
+#: inc/starter-content.php:153
+msgid "Life Coaching"
+msgstr ""
+
+#: inc/starter-content.php:158
+msgid "Recent Blogs"
+msgstr ""
+
+#: inc/starter-content.php:194
+msgid "Address"
+msgstr ""
+
+#: inc/starter-content.php:195
+msgid "Phone: +977-1-47012454"
+msgstr ""
+
+#: inc/starter-content.php:196
+msgid "Email: info@xyz-coach.com"
+msgstr ""
+
+#: inc/starter-content.php:197
+msgid "GPO Box : 5612, Thamel ,Kathmandu "
+msgstr ""
+
+#: inc/starter-content.php:198
+msgid "Fax Number: 503-555-1213"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/custom-controls/dropdown-taxonomies/class-dropdown-taxonomies-control.php:42
+msgid "Select"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:82
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:238
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr ""
+
+#: inc/customizer/render-functions.php:13
+msgid ""
+"Proin ornare venenatis vehicula. Duis posuere tellus a risus tincidunt, "
+"aliquet laoreet metus iaculis. Nunc sed lectus purus. Integer nulla ante, "
+"scelerisque eleifend sem eget, posuere fermentum lorem."
+msgstr ""
+
+#: inc/customizer/render-functions.php:22
+#: inc/customizer/render-functions.php:27
+msgid "Who we are"
+msgstr ""
+
+#: inc/customizer/render-functions.php:40
+msgid "Services Pricing"
+msgstr ""
+
+#: inc/customizer/render-functions.php:45
+msgid "Proudly powered by WordPress | Theme: bootstrap-coach by Underscores.me"
+msgstr ""
+
+#: inc/customizer/panels/header-panel.php:12
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/panels/homepage-panel.php:12
+msgid "Home page Options"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:15
+msgid "Colors and Fonts"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:26
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:39
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:52
+msgid "Dark Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:65
+msgid "Light Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:78
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:91
+msgid "More color options available in Pro Version."
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:113
+msgid "Choose Font Family For Your Site"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:133
+msgid "Choose Font Size"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:161
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:183
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:206
+msgid "Heading Options :"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:225
+msgid "Heading Font Family"
+msgstr ""
+
+#: inc/customizer/sections/footer-section.php:13
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer/sections/footer-section.php:26
+msgid "Copyright :"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:12
+#: inc/customizer/sections/sort-homepage-section.php:13
+msgid "Rearrange Home Sections"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:19
+msgid "CTA Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:20
+#: inc/customizer/sections/homepage-options/about.php:13
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:21
+#: inc/customizer/sections/homepage-options/services.php:52
+msgid "Service Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:22
+#: inc/customizer/sections/homepage-options/counter.php:12
+msgid "Counter Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:23
+#: inc/customizer/sections/homepage-options/benefits.php:13
+msgid "Benefit Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:24
+#: inc/customizer/sections/homepage-options/newsletter.php:13
+msgid "Newsletter Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:25
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:30
+#: inc/customizer/sections/homepage-options/offer.php:13
+msgid "Offer Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:34
+#: inc/customizer/sections/homepage-options/testimonial.php:12
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:35
+#: inc/customizer/sections/homepage-options/teams.php:12
+msgid "Teams Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:36
+msgid "Price Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:47
+msgid "Drag and Drop Sections to rearrange."
+msgstr ""
+
+#: inc/customizer/sections/header-panel/general-info.php:14
+#: inc/customizer/sections/header-panel/general-info.php:15
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/general-info.php:26
+#: inc/customizer/sections/homepage-options/info-section.php:75
+msgid "Contact Number"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/general-info.php:43
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/general-info.php:61
+msgid "Cta Button Label"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/general-info.php:77
+msgid "Cta Button Link"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/site-identity.php:47
+msgid "Site Title Show/hide"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/site-identity.php:48
+msgid "Enable to show Site Title in header."
+msgstr ""
+
+#: inc/customizer/sections/header-panel/site-identity.php:65
+msgid "Tagline Show/hide"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/site-identity.php:66
+msgid "Enable to show Tagline in header."
+msgstr ""
+
+#: inc/customizer/sections/header-panel/site-identity.php:82
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/site-identity.php:96
+msgid "Logo Size"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/site-identity.php:111
+msgid "Site Identity Font Family"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/social-media.php:14
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/social-media.php:15
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/social-media.php:16
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/social-media.php:17
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/social-media.php:18
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/social-media.php:19
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/social-media.php:20
+msgid "Tripadvisor"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/social-media.php:30
+#: inc/customizer/sections/header-panel/social-media.php:31
+#: inc/customizer/sections/header-panel/social-media.php:43
+#: inc/customizer/sections/header-panel/social-media.php:46
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/social-media.php:52
+msgid "Select Social Media"
+msgstr ""
+
+#: inc/customizer/sections/header-panel/social-media.php:58
+msgid "Social Media Links"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/about.php:23
+#: inc/customizer/sections/homepage-options/banner.php:20
+#: inc/customizer/sections/homepage-options/benefits.php:23
+#: inc/customizer/sections/homepage-options/blogs.php:24
+#: inc/customizer/sections/homepage-options/counter.php:22
+#: inc/customizer/sections/homepage-options/offer.php:24
+#: inc/customizer/sections/homepage-options/price.php:22
+#: inc/customizer/sections/homepage-options/teams.php:23
+#: inc/customizer/sections/homepage-options/testimonial.php:23
+msgid "Hide / Show"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/about.php:35
+msgid "Enter Main Heading"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/about.php:47
+#: inc/customizer/sections/homepage-options/benefits.php:53
+#: inc/customizer/sections/homepage-options/counter.php:58
+#: inc/customizer/sections/homepage-options/offer.php:50
+msgid "Enter Description"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/about.php:59
+msgid "Enter Quote"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/about.php:69
+#: inc/customizer/sections/homepage-options/benefits.php:66
+#: inc/customizer/sections/homepage-options/counter.php:71
+#: inc/customizer/sections/homepage-options/offer.php:63
+#: inc/customizer/sections/homepage-options/testimonial.php:45
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/about.php:81
+msgid "Add button "
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/about.php:84
+msgid "button"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/about.php:90
+#: inc/customizer/sections/homepage-options/benefits.php:87
+#: inc/customizer/sections/homepage-options/blogs.php:51
+#: inc/customizer/sections/homepage-options/info-section.php:53
+#: inc/customizer/sections/homepage-options/info-section.php:100
+#: inc/customizer/sections/homepage-options/services.php:62
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/about.php:94
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/banner.php:12
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/banner.php:34
+msgid "Banner Title"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/banner.php:52
+#: inc/customizer/sections/homepage-options/info-section.php:64
+#: inc/customizer/sections/homepage-options/info-section.php:111
+#: inc/customizer/sections/homepage-options/services.php:66
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/banner.php:71
+#: inc/customizer/sections/homepage-options/info-section.php:122
+msgid "CTA Label"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/banner.php:89
+#: inc/customizer/sections/homepage-options/info-section.php:132
+msgid "CTA Link"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/benefits.php:40
+#: inc/customizer/sections/homepage-options/counter.php:45
+#: inc/customizer/sections/homepage-options/offer.php:37
+msgid "Enter Heading"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/benefits.php:78
+msgid "Add Points "
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/benefits.php:81
+msgid "points"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/benefits.php:91
+msgid "Percentage"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/blogs.php:12
+msgid "Blog Posts"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/blogs.php:13
+msgid "Blog Posts :"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/blogs.php:37
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/counter.php:33
+msgid "Video Link"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/counter.php:83
+#: inc/customizer/sections/homepage-options/counter.php:86
+msgid "Counter"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/counter.php:92
+msgid "Enter Number"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/counter.php:96
+msgid "Enter Text"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/info-section.php:13
+msgid "Info Section"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/info-section.php:23
+msgid "Hide / Show Cta Blocks"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/info-section.php:42
+msgid "Cta block 1 :"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/info-section.php:89
+msgid "Cta block 2 :"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/newsletter.php:23
+msgid "Hide / Show Newsletter Section"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/newsletter.php:35
+msgid "Enter Shortcode for newsletter"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/offer.php:75
+msgid "Read more Label"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/offer.php:87
+msgid "Read more Link"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/price.php:12
+msgid "Pricing Section"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/price.php:34
+msgid "Enter  Heading for Price Table"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/services.php:14
+msgid "Services Section"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/services.php:24
+msgid "Hide / Show Services Blocks"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/services.php:37
+msgid "Enter  Heading for Services"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/services.php:48
+msgid "Add Services "
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/services.php:49
+msgid "Add Services from here"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/services.php:58
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/services.php:70
+msgid "Button Label"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/services.php:74
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/teams.php:13
+msgid "Teams Section :"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/teams.php:36
+msgid "Enter Heading for Teams"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/testimonial.php:13
+msgid "Testimonial Section :"
+msgstr ""
+
+#: inc/customizer/sections/homepage-options/testimonial.php:35
+msgid "Enter Heading for Testimonial"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:818
+#: inc/tgmpa/class-tgm-plugin-activation.php:2524
+#: inc/tgmpa/class-tgm-plugin-activation.php:3561
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3140
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2933
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:925
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:925
+#: inc/tgmpa/class-tgm-plugin-activation.php:928
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:928
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1112
+#: inc/tgmpa/class-tgm-plugin-activation.php:2929
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1973
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2264
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2267
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2283
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2286
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2289
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2306
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2310
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2312
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2318
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2324
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2379
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2383
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2387
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2391
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2473
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2489
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2501
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2524
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2538
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2539
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2545
+msgid "Status"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2594
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2599
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2605
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2675
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2708
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2714
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2745
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2747
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2788
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2790
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2889
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3139
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3479
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3482
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3484
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3488
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3490
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3490
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3490
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3491
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3493
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3496
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3499
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:51
+msgid "The Bootstrap Theme Companion"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:56
+msgid "BlossomThemes Email Newsletter"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:61
+msgid "Advanced Import"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:66
+msgid "TBThemes Theme Import"
+msgstr ""
+
+#: inc/widgets/widgets.php:15
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:17
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:26
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:35
+msgid "Left Sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:65
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:30 template-parts/content.php:47
+#: template-parts/home-sections/blogs.php:58
+msgid "zero comment"
+msgstr ""
+
+#: template-parts/content-single.php:30 template-parts/content.php:47
+#: template-parts/home-sections/blogs.php:58
+msgid "one comment"
+msgstr ""
+
+#: template-parts/content-single.php:30 template-parts/content.php:47
+#: template-parts/home-sections/blogs.php:58
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: template-parts/content.php:55 template-parts/home-sections/blogs.php:66
+msgid "Read More"
+msgstr ""
+
+#: template-parts/home-sections/price.php:66
+#: template-parts/home-sections/teams.php:63
+#: template-parts/home-sections/testimonial.php:66
+#: template-parts/shortcode-layout/price-layout.php:55
+#: template-parts/shortcode-layout/team-layout.php:51
+#: template-parts/shortcode-layout/testimonial-layout.php:52
+msgid "No data found"
+msgstr ""
+
+#: template-parts/shortcode-layout/price-layout.php:5
+msgid "Pricing Table"
+msgstr ""

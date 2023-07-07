@@ -1,0 +1,52 @@
+.barfiller-holder {
+    margin: 0 0 30px;
+    font-size: 18px;
+    color: rgba(var(--light-color), 1);
+}
+.barfiller-holder:last-child {
+    margin: 0;
+}
+.barfiller {
+  width: 100%;
+  height: 2px;
+  background: rgba(255 255 255 / 30%);
+  /*border: 1px solid #ccc;*/
+  position: relative;
+  margin-bottom: 20px;
+  box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5);
+  -moz-box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5);
+}
+
+.barfiller .fill {
+  display: block;
+  position: relative;
+  width: 0px;
+  height: 100%;
+  background: #333;
+  z-index: 1;
+}
+
+.barfiller .tipWrap { display: none; }
+
+.barfiller .tip {
+  margin-top: -28px;
+  padding: 2px 4px;
+  /*font-size: 16px;*/
+  color: #fff;
+  left: 0px;
+  position: absolute;
+  z-index: 2;
+  /*background: #333;*/
+}
+
+/*.barfiller .tip:after {
+  border: solid;
+  border-color: rgba(0,0,0,.8) transparent;
+  border-width: 6px 6px 0 6px;
+  content: "";
+  display: block;
+  position: absolute;
+  left: 9px;
+  top: 100%;
+  z-index: 9
+}*/
